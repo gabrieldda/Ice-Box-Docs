@@ -1,4 +1,4 @@
-<script src="/main.js?raw=true"></script>
+db shell db set-device-owner com.catchingnow.icebox / .receiver.DPMReceiver
 
 ### Device Owner (Non Root) Mode Setup
 
